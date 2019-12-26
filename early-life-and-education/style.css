@@ -1,0 +1,27 @@
+body {
+	width: 1000px;
+	background-color: aqua;
+	font-size: 15px;
+	font-family: Arial;
+	margin: 40px auto;
+}
+
+#nav {
+	display: inline-block;
+	width: 200px;
+	border: solid;
+	border-width: 5px 5px 5px 5px;
+	border-color: yellow;
+	position: absolute;
+	left: 350px;
+	padding-left: 20px;
+}
+
+#section {
+	display: inline-block;
+	width: 400px;
+	position: absolute;
+	right: 250px;
+}
+	
+	
